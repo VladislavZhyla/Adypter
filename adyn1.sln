@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adyn1", "adyn1\adyn1.csproj", "{13294E70-44B6-4C4C-9450-D86F22AE76BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13294E70-44B6-4C4C-9450-D86F22AE76BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13294E70-44B6-4C4C-9450-D86F22AE76BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13294E70-44B6-4C4C-9450-D86F22AE76BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13294E70-44B6-4C4C-9450-D86F22AE76BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {541CA4C2-1061-4289-91FE-38C4C912F927}
+	EndGlobalSection
+EndGlobal
